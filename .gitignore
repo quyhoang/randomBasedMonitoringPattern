@@ -3,4 +3,5 @@
 #ignore this folder
 __pycache__/
 newfolder/*
+newfolder2/
 
