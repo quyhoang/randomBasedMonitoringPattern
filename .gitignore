@@ -1,7 +1,7 @@
 *.csv
 
 #ignore this folder
-__pycache__/
+#__pycache__/
 newfolder/
 newfolder2/
 
