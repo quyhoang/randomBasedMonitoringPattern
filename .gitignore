@@ -1,4 +1,6 @@
 *.csv
-/__pycache__/*
+
+#ignore this folder
+__pycache__/
 /newfolder
 
